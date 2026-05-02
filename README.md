@@ -21,8 +21,7 @@ e região, gerando insights acionáveis para gestão de saúde.
 | Interior tem menor espera (28 dias) | Boas práticas replicáveis |
 
 ## 📊 Visualizações
-![Análise de Atendimentos](analise_atendimentos_final.png)
-
+![Análise de Atendimentos](analise_atendimentos_v2.png)
 ## 🛠️ Ferramentas
 - Python 3.12 · pandas · matplotlib · seaborn · Google Colab
 
